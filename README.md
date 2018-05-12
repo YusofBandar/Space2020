@@ -1,3 +1,8 @@
+<p align="center">
+<img align="middle" src="https://github.com/YusofBandar/Space2020/blob/master/Images/Title.png" width="" height="" />
+ </p>
+
+
 # Space2020
 Space202 is a multiplayer game that allows users to control a first-person astronaut to explore the crash site of two space ships on the moon.
 
