@@ -39,3 +39,24 @@ Throughout the game, an AI called “Blue” accompanies each player. Blue is no
 
 
 For example, the player could need more information about a certain ship. If "More information on the Vanguard" is asked to Blue, Blue will respond with extra information.  
+
+# Installation
+To install the application all you will need in [Ngrok](https://ngrok.com/)
+
+## Server
+To run the application you will need Ngrok to host the server
+### Ngrok
+Install Ngrok for your OS and start the exe file and run
+
+```
+ngrok http 8081
+
+```
+take note of the HTTPS URL.
+
+## Game
+To run the game open the [project](https://playcanvas.com/project/551030/settings) and open the editor.
+
+Navigate to the Network scripts and open [Network.js](https://github.com/YusofBandar/Space2020/blob/master/src/Network/Network.js) find line 28
+
+```this.socket = io.connect([HTTPS ENDPOINT]);``` change ```HTTPS ENDPOINT``` to the the HTTPS URL noted earlier.
