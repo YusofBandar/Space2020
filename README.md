@@ -29,7 +29,7 @@ The Twilio API is used to send information to a player mobile, simulating real c
  </p>
 
 
-One situation, the Twilio API is used is at the start, when heading towards one of the space ships the player will receive a "distress signal". The "distress signal" will contain information about the space ship and crew.
+One situation the Twilio API is used is at the start, when heading towards one of the space ships the player will receive a "distress signal". The "distress signal" will contain information about the space ship and crew.
 
 # Speech AI
 Throughout the game, an AI called “Blue” accompanies each player. Blue is not very clever and has a hard time understanding humans but holds a massive amount of information. When the player either needs help or requires more information, "T" can be pressed to ask Blue a question, Blue will attempt to respond with the correct information.
