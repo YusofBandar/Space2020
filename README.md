@@ -1,5 +1,5 @@
 <p align="center">
-<img align="middle" src="https://github.com/YusofBandar/Space2020/blob/master/Images/Title.png" width="928.8" height="300" />
+<img align="middle" src="https://github.com/YusofBandar/Space2020/blob/master/Images/Title.png" width="928.8" height="250" />
  </p>
 
 
