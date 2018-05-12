@@ -7,11 +7,11 @@ Space202 is a multiplayer game, built in 24 hours for [Student Hack VI](https://
 
 Players can explore the crash site through exploration; the players can receive information via the Twilio API.
 
+In addition, there is implemented AI that will listen to commands being said over a microphone and uses voice recognition to detect speech, and based on fixed list answers the players' questions. Each player can explore the game at its own pace and trigger events simultaneously.
+
 <p align="center">
 <img align="middle" src="https://github.com/YusofBandar/Space2020/blob/master/Images/StartGif.gif" width="" height="" />
  </p>
-
-In addition, there is implemented AI that will listen to commands being said over a microphone and uses voice recognition to detect speech, and based on fixed list answers the players' questions. Each player can explore the game at its own pace and trigger events simultaneously.
 
 # Play Canvas
 The game was built using a Game Engine called [Play canvas](https://playcanvas.com/). PlayCanvas is a WebGL engine, built in JavaScript, thus our game runs 100% in the web. As well as running on the web, players with different devices such as tablet and a computer will still be able to play with each other.
