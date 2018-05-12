@@ -25,7 +25,7 @@ Network.prototype.initialize = function() {
     serverPlayer = this.app.root.findByName("newPlayer");
     clientPos = clientPlayer.getPosition();
     clientRotation = clientPlayer.getLocalEulerAngles();
-    this.socket = io.connect('https://65240294.ngrok.io');
+    this.socket = io.connect([HTTPS ENDPOINT]);
     
     this.socket.emit('newPlayer');
     
