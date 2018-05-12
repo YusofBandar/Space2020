@@ -62,3 +62,11 @@ To run the game open the [project](https://playcanvas.com/project/551030) and op
 Navigate to the Network scripts and open [Network.js](https://github.com/YusofBandar/Space2020/blob/master/src/Network/Network.js) find line 28
 
 ```this.socket = io.connect([HTTPS ENDPOINT]);``` change ```HTTPS ENDPOINT``` to the the HTTPS URL noted earlier.
+
+# Built With
+- PlayCanvas
+- Socket.IO
+- Speech API
+
+# Acknowledgments
+- Thanks to Student Hack VI for hosting the event
