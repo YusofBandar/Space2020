@@ -3,7 +3,6 @@
  </p>
 
 
-# Space2020
 Space202 is a multiplayer game that allows users to control a first-person astronaut to explore the crash site of two space ships on the moon.
 
 Players can explore the crash site through exploration; the players can receive information via the Twilio API.
